@@ -1,84 +1,84 @@
-track CR_v40_1_1_nobg
-type narrowPeak
-shortLabel CR_v40_1_1_nobg
-longLabel CR_v40_1_1_nobg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_1_nobg_peaks.narrowPeak
+track CR_v40_1_1_nobg_peaks
+type bigBed 6+4
+shortLabel CR_v40_1_1_nobg_peaks
+longLabel CR_v40_1_1_nobg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_1_nobg_peaks.bigBed
 visibility full
 
-track CR_v40_1_1_wbg
-type narrowPeak
-shortLabel CR_v40_1_1_wbg
-longLabel CR_v40_1_1_wbg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_1_wbg_peaks.narrowPeak
+track CR_v40_1_1_wbg_peaks
+type bigBed 6+4
+shortLabel CR_v40_1_1_wbg_peaks
+longLabel CR_v40_1_1_wbg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_1_wbg_peaks.bigBed
 visibility full
 
-track CR_v40_1_2_nobg
-type narrowPeak
-shortLabel CR_v40_1_2_nobg
-longLabel CR_v40_1_2_nobg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_2_nobg_peaks.narrowPeak
+track CR_v40_1_2_nobg_peaks
+type bigBed 6+4
+shortLabel CR_v40_1_2_nobg_peaks
+longLabel CR_v40_1_2_nobg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_2_nobg_peaks.bigBed
 visibility full
 
-track CR_v40_1_2_wbg
-type narrowPeak
-shortLabel CR_v40_1_2_wbg
-longLabel CR_v40_1_2_wbg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_2_wbg_peaks.narrowPeak
+track CR_v40_1_2_wbg_peaks
+type bigBed 6+4
+shortLabel CR_v40_1_2_wbg_peaks
+longLabel CR_v40_1_2_wbg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_2_wbg_peaks.bigBed
 visibility full
 
-track CR_v40_1_3_nobg
-type narrowPeak
-shortLabel CR_v40_1_3_nobg
-longLabel CR_v40_1_3_nobg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_3_nobg_peaks.narrowPeak
+track CR_v40_1_3_nobg_peaks
+type bigBed 6+4
+shortLabel CR_v40_1_3_nobg_peaks
+longLabel CR_v40_1_3_nobg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_3_nobg_peaks.bigBed
 visibility full
 
-track CR_v40_1_3_wbg
-type narrowPeak
-shortLabel CR_v40_1_3_wbg
-longLabel CR_v40_1_3_wbg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_3_wbg_peaks.narrowPeak
+track CR_v40_1_3_wbg_peaks
+type bigBed 6+4
+shortLabel CR_v40_1_3_wbg_peaks
+longLabel CR_v40_1_3_wbg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_3_wbg_peaks.bigBed
 visibility full
 
-track CR_v40_2_1_nobg
-type narrowPeak
-shortLabel CR_v40_2_1_nobg
-longLabel CR_v40_2_1_nobg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_1_nobg_peaks.narrowPeak
+track CR_v40_2_1_nobg_peaks
+type bigBed 6+4
+shortLabel CR_v40_2_1_nobg_peaks
+longLabel CR_v40_2_1_nobg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_1_nobg_peaks.bigBed
 visibility full
 
-track CR_v40_2_1_wbg
-type narrowPeak
-shortLabel CR_v40_2_1_wbg
-longLabel CR_v40_2_1_wbg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_1_wbg_peaks.narrowPeak
+track CR_v40_2_1_wbg_peaks
+type bigBed 6+4
+shortLabel CR_v40_2_1_wbg_peaks
+longLabel CR_v40_2_1_wbg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_1_wbg_peaks.bigBed
 visibility full
 
-track CR_v40_2_2_nobg
-type narrowPeak
-shortLabel CR_v40_2_2_nobg
-longLabel CR_v40_2_2_nobg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_2_nobg_peaks.narrowPeak
+track CR_v40_2_2_nobg_peaks
+type bigBed 6+4
+shortLabel CR_v40_2_2_nobg_peaks
+longLabel CR_v40_2_2_nobg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_2_nobg_peaks.bigBed
 visibility full
 
-track CR_v40_2_2_wbg
-type narrowPeak
-shortLabel CR_v40_2_2_wbg
-longLabel CR_v40_2_2_wbg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_2_wbg_peaks.narrowPeak
+track CR_v40_2_2_wbg_peaks
+type bigBed 6+4
+shortLabel CR_v40_2_2_wbg_peaks
+longLabel CR_v40_2_2_wbg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_2_wbg_peaks.bigBed
 visibility full
 
-track CR_v40_2_3_nobg
-type narrowPeak
-shortLabel CR_v40_2_3_nobg
-longLabel CR_v40_2_3_nobg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_3_nobg_peaks.narrowPeak
+track CR_v40_2_3_nobg_peaks
+type bigBed 6+4
+shortLabel CR_v40_2_3_nobg_peaks
+longLabel CR_v40_2_3_nobg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_3_nobg_peaks.bigBed
 visibility full
 
-track CR_v40_2_3_wbg
-type narrowPeak
-shortLabel CR_v40_2_3_wbg
-longLabel CR_v40_2_3_wbg
-bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_3_wbg_peaks.narrowPeak
+track CR_v40_2_3_wbg_peaks
+type bigBed 6+4
+shortLabel CR_v40_2_3_wbg_peaks
+longLabel CR_v40_2_3_wbg_peaks
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_3_wbg_peaks.bigBed
 visibility full
 
