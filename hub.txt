@@ -1,0 +1,5 @@
+hub cut_and_run_peaks
+shortLabel CUT&RUN Peaks
+longLabel CUT&RUN H3K27ac/H3K4me3 Mouse Peaks
+genomesFile genomes.txt
+email your@email.com
