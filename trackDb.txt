@@ -1,84 +1,161 @@
+track CR_v40_1_1_signal
+type bigWig
+shortLabel 1_1_signal
+longLabel CR_v40_1_1 signal
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_1.bw
+visibility full
+autoScale off
+viewLimits 0:5000
+maxHeightPixels 100:50:8
+
 track CR_v40_1_1_nobg_peaks
 type bigBed 6+4
-shortLabel CR_v40_1_1_nobg_peaks
-longLabel CR_v40_1_1_nobg_peaks
+shortLabel 1_1_nobg
+longLabel CR_v40_1_1 peaks no background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_1_nobg_peaks.bigBed
 visibility dense
 
 track CR_v40_1_1_wbg_peaks
 type bigBed 6+4
-shortLabel CR_v40_1_1_wbg_peaks
-longLabel CR_v40_1_1_wbg_peaks
+shortLabel 1_1_wbg
+longLabel CR_v40_1_1 peaks with background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_1_wbg_peaks.bigBed
 visibility dense
 
+track CR_v40_1_2_signal
+type bigWig
+shortLabel 1_2_signal
+longLabel CR_v40_1_2 signal
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_2.bw
+visibility full
+autoScale off
+viewLimits 0:5000
+maxHeightPixels 100:50:8
+
 track CR_v40_1_2_nobg_peaks
 type bigBed 6+4
-shortLabel CR_v40_1_2_nobg_peaks
-longLabel CR_v40_1_2_nobg_peaks
+shortLabel 1_2_nobg
+longLabel CR_v40_1_2 peaks no background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_2_nobg_peaks.bigBed
 visibility dense
 
 track CR_v40_1_2_wbg_peaks
 type bigBed 6+4
-shortLabel CR_v40_1_2_wbg_peaks
-longLabel CR_v40_1_2_wbg_peaks
+shortLabel 1_2_wbg
+longLabel CR_v40_1_2 peaks with background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_2_wbg_peaks.bigBed
 visibility dense
 
+track CR_v40_1_3_signal
+type bigWig
+shortLabel 1_3_signal
+longLabel CR_v40_1_3 signal
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_3.bw
+visibility full
+autoScale off
+viewLimits 0:5000
+maxHeightPixels 100:50:8
+
 track CR_v40_1_3_nobg_peaks
 type bigBed 6+4
-shortLabel CR_v40_1_3_nobg_peaks
-longLabel CR_v40_1_3_nobg_peaks
+shortLabel 1_3_nobg
+longLabel CR_v40_1_3 peaks no background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_3_nobg_peaks.bigBed
 visibility dense
 
 track CR_v40_1_3_wbg_peaks
 type bigBed 6+4
-shortLabel CR_v40_1_3_wbg_peaks
-longLabel CR_v40_1_3_wbg_peaks
+shortLabel 1_3_wbg
+longLabel CR_v40_1_3 peaks with background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_1_3_wbg_peaks.bigBed
 visibility dense
 
+track CR_v40_2_1_signal
+type bigWig
+shortLabel 2_1_signal
+longLabel CR_v40_2_1 signal
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_1.bw
+visibility full
+autoScale off
+viewLimits 0:5000
+maxHeightPixels 100:50:8
+
 track CR_v40_2_1_nobg_peaks
 type bigBed 6+4
-shortLabel CR_v40_2_1_nobg_peaks
-longLabel CR_v40_2_1_nobg_peaks
+shortLabel 2_1_nobg
+longLabel CR_v40_2_1 peaks no background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_1_nobg_peaks.bigBed
 visibility dense
 
 track CR_v40_2_1_wbg_peaks
 type bigBed 6+4
-shortLabel CR_v40_2_1_wbg_peaks
-longLabel CR_v40_2_1_wbg_peaks
+shortLabel 2_1_wbg
+longLabel CR_v40_2_1 peaks with background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_1_wbg_peaks.bigBed
 visibility dense
 
+track CR_v40_2_2_signal
+type bigWig
+shortLabel 2_2_signal
+longLabel CR_v40_2_2 signal
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_2.bw
+visibility full
+autoScale off
+viewLimits 0:5000
+maxHeightPixels 100:50:8
+
 track CR_v40_2_2_nobg_peaks
 type bigBed 6+4
-shortLabel CR_v40_2_2_nobg_peaks
-longLabel CR_v40_2_2_nobg_peaks
+shortLabel 2_2_nobg
+longLabel CR_v40_2_2 peaks no background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_2_nobg_peaks.bigBed
 visibility dense
 
 track CR_v40_2_2_wbg_peaks
 type bigBed 6+4
-shortLabel CR_v40_2_2_wbg_peaks
-longLabel CR_v40_2_2_wbg_peaks
+shortLabel 2_2_wbg
+longLabel CR_v40_2_2 peaks with background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_2_wbg_peaks.bigBed
 visibility dense
 
+track CR_v40_2_3_signal
+type bigWig
+shortLabel 2_3_signal
+longLabel CR_v40_2_3 signal
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_3.bw
+visibility full
+autoScale off
+viewLimits 0:5000
+maxHeightPixels 100:50:8
+
 track CR_v40_2_3_nobg_peaks
 type bigBed 6+4
-shortLabel CR_v40_2_3_nobg_peaks
-longLabel CR_v40_2_3_nobg_peaks
+shortLabel 2_3_nobg
+longLabel CR_v40_2_3 peaks no background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_3_nobg_peaks.bigBed
 visibility dense
 
 track CR_v40_2_3_wbg_peaks
 type bigBed 6+4
-shortLabel CR_v40_2_3_wbg_peaks
-longLabel CR_v40_2_3_wbg_peaks
+shortLabel 2_3_wbg
+longLabel CR_v40_2_3 peaks with background
 bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_2_3_wbg_peaks.bigBed
+visibility dense
+
+track CR_v40_K_signal
+type bigWig
+shortLabel K_signal
+longLabel CR_v40_K signal
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_K.bw
+visibility full
+autoScale off
+viewLimits 0:5000
+maxHeightPixels 100:50:8
+
+track CR_v40_K_nobg_peaks
+type bigBed 6+4
+shortLabel K_nobg
+longLabel CR_v40_K peaks no background
+bigDataUrl https://raw.githubusercontent.com/woohoos/cut-and-run-peaks/main/CR_v40_K_nobg_peaks.bigBed
 visibility dense
 
